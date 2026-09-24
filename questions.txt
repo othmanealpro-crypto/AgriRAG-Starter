@@ -1,0 +1,44 @@
+🌾 1️⃣ Questions TRÈS pertinentes (doivent citer INRA)
+
+Quelles sont les périodes les plus sensibles au stress hydrique du blé ?
+
+À quel stade faut-il arrêter l’irrigation du blé ?
+
+Quelle quantité d’eau est recommandée pour l’irrigation d’appoint du blé ?
+
+Quels sont les besoins en eau du blé tendre et du blé dur ?
+
+Comment adapter l’irrigation du blé en année sèche ?
+
+👉 Résultat attendu :
+Source : INRA_fiche_technique_ble.pdf
+
+🌍 2️⃣ Questions générales agricoles (FAO)
+
+Qu’est-ce que les bonnes pratiques agricoles selon la FAO ?
+
+Pourquoi la gestion de l’eau est-elle essentielle en agriculture durable ?
+
+Quels sont les principes de gestion durable des sols agricoles ?
+
+Comment réduire les pertes de rendement liées au stress hydrique ?
+
+Quel est le rôle de l’irrigation dans l’amélioration des rendements agricoles ?
+
+👉 Résultat attendu :
+Source : FAO_bonnes_pratiques_agricoles.pdf
+
+🛡️ 3️⃣ Questions réglementaires / usages (ONSSA)
+
+Qu’est-ce que le catalogue des usages agricoles au Maroc ?
+
+Pourquoi est-il important de respecter les usages agricoles homologués ?
+
+Quel est le rôle de l’ONSSA dans la réglementation agricole ?
+
+Quels sont les risques liés à l’utilisation non contrôlée des produits agricoles ?
+
+Comment assurer la traçabilité des pratiques agricoles au Maroc ?
+
+👉 Résultat attendu :
+Source : ONSSA_catalogue_usages_agricoles.pdf
